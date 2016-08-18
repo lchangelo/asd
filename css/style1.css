@@ -1,0 +1,39 @@
+html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, th, img{ border-width:0; padding:0; margin:0; font-family:ËÎÌו,Tahoma,Verdana,Segoe,sans-serif; font-size:12px;}
+
+body {background: #dce5f1;}
+
+a{text-decoration: none;}
+.text3{ width:400px; height:100px; border:#CCCCCC 1px solid; line-height:20px;}
+
+#head{ width:100%; height:66px; background:url(../images/top.jpg);} 
+#head .logo{ width:400px; height:66px; float:left; text-align:left;} 
+#head .admin{ width:400px; height:66px; float:right; text-align:right;} 
+
+#left{width:201px; float:left; clear:left; background:url(../images/left_2.gif);}
+#left .mune{CURSOR: hand; line-height:26px; text-align:left; font-size:14px;}
+#left .butn{ padding: 0 0 0 30px;}
+
+
+#right{ width:791px; float:left; clear:right; margin:0 0 0 10px;}
+#right .top{ width:756px; background:url(../images/right_top.gif); height:31px; text-align:left; font-size:18px; line-height:30px; font-weight:bold; padding:0 0 0 35px;}
+#right .grop{ background:#FFFFFF; border:#CCCCCC 1px solid; border-top: none; text-align:left; width:100%; height:600px;}
+#right .search{ background:#FFFFFF; border:#CCCCCC 1px solid; height:18px; width:150px; line-height:16px;}
+#right .table{ border:#CCCCCC 1px solid; width:780px; margin:10px 5px 10px 5px;}
+#right .tabletop{ background:#FFFFFF; width:780px; background:url(../images/right_table_1.gif); height:27px; line-height:27px;}
+#right .tabletop h1{float:left; font-size:14px; padding-left:7px; border-right:#FFFFFF 1px solid;}
+#right .tabletr{float:left;width:100%;height:24px;}
+#right .tabletd{float:left;height:24px; font-size:12px; line-height:24px;padding-left:7px;border-right:#FFFFFF 1px solid;}
+
+#feet{ width:100%; background:#FFFFFF; margin:10px 0 0 0; float:left; clear:both; padding:5px 0 0 0; line-height:20px;}
+
+#regbody{ width:663px; height:auto; border:#c4c4c4 1px solid; border-top:none; background-color:#FFFFFF;margin:0 auto;}
+#regbody .title{ width:657px; height:30px; border-bottom:#eeeeef 1px solid; padding:0 0 0 6px; background:#EEFFFE; text-align:left; font-size:14px; line-height:30px; margin:0 0 10px 0;}
+#regbody .tt{ width:100px; height:auto; padding:0 0 0 6px; background:#FFFFFF; text-align:right; font-size:12px; float:left; line-height:28px;}
+#regbody .tt2{ width:500px; height:50px; padding:0 0 0 6px; background:#FFFFFF; text-align:left; font-size:12px; float:left; line-height:28px;}
+#regbody .tt3{ width:600px; height:auto; background:#FFFFFF; text-align:center; font-size:12px; float:left; line-height:28px;}
+#regbody .tt4{ width:90%; height:auto; float:left; padding:10px 10px 0 10px; text-align:left; line-height:30px; font-size:18px;}
+#regbody .text{ width:150px; height:20px; border:#CCCCCC 1px solid;}
+#regbody .gun{WIDTH: 350px; HEIGHT: 200px; OVERFLOW: scroll; scrollbar-face-color: #FFFFFF; scrollbar-shadow-color: #D2E5F4; scrollbar-highlight-color: #D2E5F4; scrollbar-3dlight-color: #FFFFFF; scrollbar-darkshadow-color: #FFFFFF; scrollbar-track-color: #FFFFFF; scrollbar-arrow-color: #D2E5F4; border:#D2E5F4 1px solid;}
+
+html body{font:12px Arial, Helvetica, sans-serif;color:#333333}
+html>body{font:12px Arial, Helvetica, sans-serif;color:#333333}

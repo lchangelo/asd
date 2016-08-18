@@ -1,0 +1,13 @@
+body { background: url(../images/login_bg.jpg) #eaedf2 no-repeat center top; font-family:ËÎÌו,Tahoma,Verdana,Segoe,sans-serif;} 
+a:link, a:active, a:visited	{color:#007F9A; text-decoration:underline}
+a:hover	{color:#007F9A; text-decoration:none}
+
+#head{ height:30px; color:#FFFFFF;}
+
+#login_box{height:394px; width:688px; background:url(../images/login_box.gif) no-repeat; margin:100px 0 30px 0; padding:120px 0 0 0;}
+#login_box .text1{width:500px; height:60px; line-height:60px; font-size:20px; text-align:center;}
+#login_box .text2{width:500px; height:60px; margin:10px 0 0 0; line-height:60px; font-size:20px; text-align:center;}
+#login_box .btn{width:500px; height:40px; margin:10px 0 0 0; line-height:40px; font-size:14px; text-align:center;}
+#login_box .box{border:0; height:28px; width:300px; background-color:transparent; background-image:url(../images/i_box.gif); line-height:26px; padding:0 0 0 3px;}
+
+#feet{height:40px; text-align:center; font-size:12px; line-height:24px;}
